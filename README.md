@@ -14,4 +14,7 @@ I continue to learn every day because knowledge is power
 ## 🔗 Links
 ## 🛠 Skills
 Javascript, HTML, CSS...
+### Languages and Tools :
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
