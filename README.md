@@ -1,4 +1,4 @@
-
+![Image alt](https://github.com/Snysic/Snysic/blob/main/DALL·E%202024-10-29%2018.27.57%20-%20A%20horizontal%2C%20feminine-themed%20illustration%20for%20a%20website%20developer's%20background.%20The%20design%20features%20a%20woman%20coding%20on%20a%20sleek%20laptop%2C%20surrounded%20by%20w.webp)
 # Hi! My name is Maria Web developer 
 ## About me👩‍💻
 
