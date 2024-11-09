@@ -1,4 +1,5 @@
-# Hi! My name is Maria Vasilenko Web developer 
+
+# Hi! My name is Maria Web developer 
 ## About me👩‍💻
 
  - I live in Valencia (Spain)![image](https://github.com/user-attachments/assets/7495e933-5f9b-4cf2-ace7-032bba8895af)
@@ -11,11 +12,12 @@
 
 ## Important to me...
 I continue to learn every day because knowledge is power
-## 🔗 Links
+
 ## My Current Stack, Skills, and Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -24,15 +26,20 @@ I continue to learn every day because knowledge is power
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 
 ## 🔗 Links
 📫 Feel free to reach out to me for collaboration or just to say hello!
 
-![LinkedIn](https://www.linkedin.com/in/maria-vasilenko-56358b333/) 
-![Discord]()
-![Facebook](https://www.facebook.com/snysic/)
-![Slack](https://app.slack.com/client/T07NLUM2DPU/C07P9PPHD3J)
-![Telegram](https://web.telegram.org/a/#774419833)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-vasilenko-56358b333/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/snysic/) 
+
 
 
 ### Some of my projects and collaborations
